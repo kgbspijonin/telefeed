@@ -1,0 +1,5 @@
+api_id: 123456 # Api ID - check TG documentation
+api_hash: 'zxcv' # Api hash - check TG documentation
+session_name: 'ABCDEF' # Username to log in as
+default_channel: "QWERTY" # Default channel to send messages to
+ignored_channels: ["FOOBAR"] # Channels to ignore
